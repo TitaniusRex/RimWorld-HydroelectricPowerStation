@@ -144,9 +144,9 @@
 	    <texPath>Things/Building/Power/WPGTUnderDeepWaterPowerConduit</texPath>
 	    <graphicClass>Graphic_Single</graphicClass>
 	    <linkType>Transmitter</linkType>
-			<linkFlags>
-				<li>PowerConduit</li>
-			</linkFlags>
+	    <linkFlags>
+		<li>PowerConduit</li>
+	    </linkFlags>
 			<damageData>
 				<rect>(0,0.35,1,0.3)</rect>
 			</damageData>
