@@ -156,10 +156,10 @@
 	    <building>
 		<ai_chillDestination>false</ai_chillDestination>
 		<isInert>true</isInert>
-			<isEdifice>false</isEdifice>
-			<blueprintGraphicData>
+		<isEdifice>false</isEdifice>
+		<blueprintGraphicData>
 				<texPath>Things/Building/Linked/PowerConduit_Blueprint_Atlas</texPath>
-			</blueprintGraphicData>
+		</blueprintGraphicData>
 	    </building>
 		<drawerType>MapMeshOnly</drawerType>
 		<altitudeLayer>Conduits</altitudeLayer>
