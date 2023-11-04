@@ -158,7 +158,7 @@
 		<isInert>true</isInert>
 		<isEdifice>false</isEdifice>
 		<blueprintGraphicData>
-				<texPath>Things/Building/Linked/PowerConduit_Blueprint_Atlas</texPath>
+		    <texPath>Things/Building/Linked/PowerConduit_Blueprint_Atlas</texPath>
 		</blueprintGraphicData>
 	    </building>
 		<drawerType>MapMeshOnly</drawerType>
@@ -167,7 +167,7 @@
 		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
 		<resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
 		<statBases>
-			<MaxHitPoints>350</MaxHitPoints>
+		    <MaxHitPoints>350</MaxHitPoints>
 			<WorkToBuild>350</WorkToBuild>
 			<Flammability>0.0</Flammability>
 			<Beauty>0</Beauty>
