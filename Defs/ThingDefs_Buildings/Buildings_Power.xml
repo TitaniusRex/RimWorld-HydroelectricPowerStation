@@ -138,9 +138,9 @@
         <defName>WPGTUnderDeepWaterPowerConduit</defName>
 	<label>underwater power conduit</label>
 	<description>A bundle of electrical cables for moving power around, placed underwater.</description>
-		<thingClass>Building</thingClass>
-		<category>Building</category>
-		<graphicData>
+	<thingClass>Building</thingClass>
+	<category>Building</category>
+	<graphicData>
 			<texPath>Things/Building/Power/WPGTUnderDeepWaterPowerConduit</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<linkType>Transmitter</linkType>
@@ -150,7 +150,7 @@
 			<damageData>
 				<rect>(0,0.35,1,0.3)</rect>
 			</damageData>
-		</graphicData>
+	</graphicData>
 		<uiIconPath>Things/Building/Linked/WaterproofConduit_MenuIcon</uiIconPath>
         <uiIconScale>0.7</uiIconScale>
 		<building>
