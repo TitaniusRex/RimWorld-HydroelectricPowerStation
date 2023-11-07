@@ -89,11 +89,11 @@
     <passability>PassThroughOnly</passability>
     <blockWind>false</blockWind>
     <scatterableOnMapGen>false</scatterableOnMapGen>
-		<fillPercent>1</fillPercent>
-		<blockLight>false</blockLight>
-		<canOverlapZones>false</canOverlapZones>
-		<statBases>
-			<MaxHitPoints>150</MaxHitPoints>
+    <fillPercent>1</fillPercent>
+    <blockLight>false</blockLight>
+    <canOverlapZones>false</canOverlapZones>
+    <statBases>
+	<MaxHitPoints>150</MaxHitPoints>
 			<WorkToBuild>1500</WorkToBuild>
 			<Flammability>1</Flammability>
 			<Beauty>-30</Beauty>
