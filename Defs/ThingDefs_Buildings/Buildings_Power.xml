@@ -103,14 +103,14 @@
     <size>(3,3)</size>
     <costList>
 	<WoodLog>100</WoodLog>
-			<Steel>10</Steel>
-			<ComponentIndustrial>2</ComponentIndustrial>
-		</costList>
-	<comps>
-		<li Class="CompProperties_Glower">
-			<glowRadius>4</glowRadius>
-			<glowColor>(80,112,180,0)</glowColor>
-		</li>
+	<Steel>10</Steel>
+	<ComponentIndustrial>2</ComponentIndustrial>
+    </costList>
+    <comps>
+	<li Class="CompProperties_Glower">
+	    <glowRadius>4</glowRadius>
+	    <glowColor>(80,112,180,0)</glowColor>
+	</li>
 		<li Class="CompProperties_Power">
 			<compClass>CompPowerPlantWPGTWaterSmoll</compClass>
 			<basePowerConsumption>-400</basePowerConsumption>
