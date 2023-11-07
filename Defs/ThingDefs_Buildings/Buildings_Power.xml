@@ -94,11 +94,11 @@
     <canOverlapZones>false</canOverlapZones>
     <statBases>
 	<MaxHitPoints>150</MaxHitPoints>
-			<WorkToBuild>1500</WorkToBuild>
-			<Flammability>1</Flammability>
-			<Beauty>-30</Beauty>
-			<Mass>20</Mass>
-		</statBases>
+	<WorkToBuild>1500</WorkToBuild>
+	<Flammability>1</Flammability>
+	<Beauty>-30</Beauty>
+	<Mass>20</Mass>
+    </statBases>
 		<tickerType>Normal</tickerType>
 		<size>(3,3)</size>
 		<costList>
