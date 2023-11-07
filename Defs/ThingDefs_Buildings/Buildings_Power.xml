@@ -84,8 +84,8 @@
 	<drawSize>(3,3)</drawSize>
     </graphicData>
     <castEdgeShadows>false</castEdgeShadows>
-	<staticSunShadowHeight>0</staticSunShadowHeight>
-		<altitudeLayer>Building</altitudeLayer>
+    <staticSunShadowHeight>0</staticSunShadowHeight>
+    <altitudeLayer>Building</altitudeLayer>
 		<passability>PassThroughOnly</passability>
 		<blockWind>false</blockWind>
 		<scatterableOnMapGen>false</scatterableOnMapGen>
