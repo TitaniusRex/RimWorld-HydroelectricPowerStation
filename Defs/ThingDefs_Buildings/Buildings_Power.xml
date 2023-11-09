@@ -127,7 +127,7 @@
 	<ai_chillDestination>false</ai_chillDestination>
         <destroySound>BuildingDestroyed_Wood_Small</destroySound>
     </building>
-	<constructEffect>ConstructWood</constructEffect>
+    <constructEffect>ConstructWood</constructEffect>
 	<researchPrerequisites>
 		<li>WatermillGenerator</li>
 	</researchPrerequisites>
