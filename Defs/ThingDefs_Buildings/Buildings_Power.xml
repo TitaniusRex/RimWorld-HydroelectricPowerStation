@@ -177,11 +177,11 @@
 	<Steel>12</Steel>
     </costList>
     <comps>
-		    <li Class="CompProperties_Power">
-			<compClass>CompPowerTransmitter</compClass>
-			<transmitsPower>true</transmitsPower>
-		    </li>
-		</comps>
+	<li Class="CompProperties_Power">
+	    <compClass>CompPowerTransmitter</compClass>
+	    <transmitsPower>true</transmitsPower>
+	</li>
+    </comps>
 		<placeWorkers>
 			<li>PlaceWorker_Conduit</li>
 		</placeWorkers>
