@@ -119,11 +119,11 @@
 	</li>
 	<li Class="CompProperties_Breakdownable"/>
     </comps>
-	<rotatable>true</rotatable>
-	<terrainAffordanceNeeded>MovingFluid</terrainAffordanceNeeded>
-		<designationCategory>Power</designationCategory>
-	<uiOrder>1800</uiOrder>
-	<building>
+    <rotatable>true</rotatable>
+    <terrainAffordanceNeeded>MovingFluid</terrainAffordanceNeeded>
+    <designationCategory>Power</designationCategory>
+    <uiOrder>1800</uiOrder>
+    <building>
 		<ai_chillDestination>false</ai_chillDestination>
 		<destroySound>BuildingDestroyed_Wood_Small</destroySound>
 	</building>
