@@ -128,10 +128,10 @@
         <destroySound>BuildingDestroyed_Wood_Small</destroySound>
     </building>
     <constructEffect>ConstructWood</constructEffect>
-	<researchPrerequisites>
-		<li>WatermillGenerator</li>
-	</researchPrerequisites>
-	<constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+    <researchPrerequisites>
+	<li>WatermillGenerator</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>4</constructionSkillPrerequisite>
 </ThingDef>
 	
     <ThingDef ParentName="BuildingBase">
