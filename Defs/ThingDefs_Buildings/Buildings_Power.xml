@@ -124,9 +124,9 @@
     <designationCategory>Power</designationCategory>
     <uiOrder>1800</uiOrder>
     <building>
-		<ai_chillDestination>false</ai_chillDestination>
-		<destroySound>BuildingDestroyed_Wood_Small</destroySound>
-	</building>
+	<ai_chillDestination>false</ai_chillDestination>
+        <destroySound>BuildingDestroyed_Wood_Small</destroySound>
+    </building>
 	<constructEffect>ConstructWood</constructEffect>
 	<researchPrerequisites>
 		<li>WatermillGenerator</li>
