@@ -187,9 +187,9 @@
 	</placeWorkers>
 	<rotatable>false</rotatable>
 	<selectable>true</selectable>
-		<neverMultiSelect>true</neverMultiSelect>
-		<soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
-		<terrainAffordanceNeeded>Bridgeable</terrainAffordanceNeeded>
+	<neverMultiSelect>true</neverMultiSelect>
+	<soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
+	<terrainAffordanceNeeded>Bridgeable</terrainAffordanceNeeded>
 		<designationCategory>Power</designationCategory>
 		<constructEffect>ConstructDirt</constructEffect>
 		<clearBuildingArea>false</clearBuildingArea>
