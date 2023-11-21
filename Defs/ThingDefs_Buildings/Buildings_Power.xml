@@ -22,9 +22,9 @@
     </graphicData>
     <castEdgeShadows>false</castEdgeShadows>
     <staticSunShadowHeight>0</staticSunShadowHeight>
-	<altitudeLayer>Building</altitudeLayer>
-	<passability>Impassable</passability>
-	<blockWind>true</blockWind>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Impassable</passability>
+    <blockWind>true</blockWind>
 	<scatterableOnMapGen>false</scatterableOnMapGen>
 	<fillPercent>1</fillPercent>
 	<blockLight>false</blockLight><!--for glower-->
