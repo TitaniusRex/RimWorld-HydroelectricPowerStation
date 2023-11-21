@@ -3,9 +3,9 @@
 <Defs>
 
 <ThingDef ParentName="NonDeconstructibleAncientBuildingBase">
-	<defName>WPGTHydroelectricPowerStation</defName>
-	<label>Hydroelectric station</label>
-	<description>Hydroelectric power station is an installation allowing taking advantage of moving water masses flowing in the rivers to transform them into electricity.</description>
+    <defName>WPGTHydroelectricPowerStation</defName>
+    <label>Hydroelectric station</label>
+    <description>Hydroelectric power station is an installation allowing taking advantage of moving water masses flowing in the rivers to transform them into electricity.</description>
 	<thingClass>Building</thingClass>
 	<drawerType>MapMeshAndRealTime</drawerType>
 	<graphicData>
