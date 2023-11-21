@@ -19,9 +19,9 @@
 	<damageData>
 		<rect>(-0.005,2.16,5,4.6)</rect>
 	</damageData>
-	</graphicData>
-	<castEdgeShadows>false</castEdgeShadows>
-	<staticSunShadowHeight>0</staticSunShadowHeight>
+    </graphicData>
+    <castEdgeShadows>false</castEdgeShadows>
+    <staticSunShadowHeight>0</staticSunShadowHeight>
 	<altitudeLayer>Building</altitudeLayer>
 	<passability>Impassable</passability>
 	<blockWind>true</blockWind>
