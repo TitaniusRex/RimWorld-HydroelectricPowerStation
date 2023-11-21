@@ -190,9 +190,9 @@
 	<neverMultiSelect>true</neverMultiSelect>
 	<soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
 	<terrainAffordanceNeeded>Bridgeable</terrainAffordanceNeeded>
-		<designationCategory>Power</designationCategory>
-		<constructEffect>ConstructDirt</constructEffect>
-		<clearBuildingArea>false</clearBuildingArea>
+	<designationCategory>Power</designationCategory>
+	<constructEffect>ConstructDirt</constructEffect>
+	<clearBuildingArea>false</clearBuildingArea>
 		<researchPrerequisites>
 			<li>Electricity</li>
 		</researchPrerequisites>
