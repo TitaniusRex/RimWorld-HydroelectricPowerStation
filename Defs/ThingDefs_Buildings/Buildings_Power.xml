@@ -193,10 +193,10 @@
 	<designationCategory>Power</designationCategory>
 	<constructEffect>ConstructDirt</constructEffect>
 	<clearBuildingArea>false</clearBuildingArea>
-		<researchPrerequisites>
-			<li>Electricity</li>
-		</researchPrerequisites>
-	</ThingDef>
+	<researchPrerequisites>
+	    <li>Electricity</li>
+	</researchPrerequisites>
+    </ThingDef>
 
 
 </Defs>
