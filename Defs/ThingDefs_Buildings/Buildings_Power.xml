@@ -58,9 +58,9 @@
     <rotatable>true</rotatable>
     <terrainAffordanceNeeded>MovingFluid</terrainAffordanceNeeded>
     <designationCategory>Power</designationCategory>
-	<uiOrder>2500</uiOrder>
-	<building>
-		<ai_chillDestination>false</ai_chillDestination>
+    <uiOrder>2500</uiOrder>
+    <building>
+    <ai_chillDestination>false</ai_chillDestination>
 		<destroySound>BuildingDestroyed_Stone_Big</destroySound>
 
 	</building>
