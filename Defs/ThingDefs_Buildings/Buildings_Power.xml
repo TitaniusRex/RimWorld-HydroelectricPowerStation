@@ -38,10 +38,10 @@
     <tickerType>Normal</tickerType>
     <size>(5,9)</size>
     <costList>
-		<Steel>600</Steel>
-		<ComponentIndustrial>4</ComponentIndustrial>
-	</costList>
-	<comps>
+	<Steel>600</Steel>
+	<ComponentIndustrial>4</ComponentIndustrial>
+    </costList>
+    <comps>
 		<li Class="CompProperties_Glower">
 			<glowRadius>10</glowRadius>
 			<glowColor>(123,0,28,0)</glowColor>
